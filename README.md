@@ -6,7 +6,7 @@ Me chamo Heloisa Marques, sou de São Paulo-SP e estou cursando Engenharia de So
 
 📍 São Paulo, SP  
 🎓 Engenharia de Software · Cruzeiro do Sul (Paulista)  
-💼 Leroy Merlin · Assistente administrativa, na matriz  
+💼 Leroy Merlin · Área administrativa, na matriz  
 🌱 Estudando atualmente: HTML, CSS, C++, Python e SQL para banco de dados  
 📫 Fale comigo: heloisamarques@gmail.com
 
@@ -33,7 +33,7 @@ Me chamo Heloisa Marques, sou de São Paulo-SP e estou cursando Engenharia de So
 
 Minha história na **Leroy Merlin** começou como **jovem aprendiz de loja**, onde aprendi na prática como funciona o dia a dia de uma grande empresa: atendimento, trabalho em equipe e responsabilidade com prazos.
 
-Hoje atuo na **matriz da Leroy Merlin**, como assistente na **área administrativa**, onde convivo com processos, organização de informações e trabalho com diferentes áreas da empresa.
+Hoje atuo na **matriz da Leroy Merlin**, na **área administrativa**, onde convivo com processos, organização de informações e trabalho com diferentes áreas da empresa.
 
 Essa vivência me ajuda a olhar para a tecnologia de forma prática: um bom sistema precisa resolver problemas reais de pessoas e de negócios. Agora estou unindo essa experiência com a minha formação em Engenharia de Software.
 
@@ -47,13 +47,8 @@ Essa vivência me ajuda a olhar para a tecnologia de forma prática: um bom sist
     <img alt="C++" title="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img alt="SQL" title="SQL (banco de dados)" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-        <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/181717" />
-        </picture>
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/ffffff" />
     <img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
