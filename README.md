@@ -6,7 +6,7 @@ Me chamo Heloisa Marques, sou de São Paulo-SP e estou cursando Engenharia de So
 
 📍 São Paulo, SP  
 🎓 Engenharia de Software · Cruzeiro do Sul (Paulista)  
-💼 Leroy Merlin · Área administrativa, na matriz  
+💼 Leroy Merlin · Assistente administrativa, na matriz  
 🌱 Estudando atualmente: HTML, CSS, C++, Python e SQL para banco de dados  
 📫 Fale comigo: heloisamarques@gmail.com
 
@@ -33,7 +33,7 @@ Me chamo Heloisa Marques, sou de São Paulo-SP e estou cursando Engenharia de So
 
 Minha história na **Leroy Merlin** começou como **jovem aprendiz de loja**, onde aprendi na prática como funciona o dia a dia de uma grande empresa: atendimento, trabalho em equipe e responsabilidade com prazos.
 
-Hoje atuo na **matriz da Leroy Merlin**, na **área administrativa**, onde convivo com processos, organização de informações e trabalho com diferentes áreas da empresa.
+Hoje atuo na **matriz da Leroy Merlin**, como assistente na **área administrativa**, onde convivo com processos, organização de informações e trabalho com diferentes áreas da empresa.
 
 Essa vivência me ajuda a olhar para a tecnologia de forma prática: um bom sistema precisa resolver problemas reais de pessoas e de negócios. Agora estou unindo essa experiência com a minha formação em Engenharia de Software.
 
